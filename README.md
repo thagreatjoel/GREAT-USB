@@ -27,3 +27,8 @@ The PCB has two layers with components soldered on both sides.
 <img width="375" height="363" alt="Screenshot 2026-05-03 234159" src="https://github.com/user-attachments/assets/7030a146-f61b-4276-b0ae-8673a01e7e23" />
 STEP file for the 3d model is also in this repo!
 
+## Add-on
+
+i reslised i have more usb type-a devices than usb type-c, so i introdouce type-a to type c connverter.. the highlight is both port is male ports.. 
+<img width="711" height="523" alt="Screenshot 2026-05-03 210844" src="https://github.com/user-attachments/assets/1f6c174c-8591-448b-88c8-ab285fb9ff63" />
+<img width="413" height="437" alt="Screenshot 2026-05-03 210822" src="https://github.com/user-attachments/assets/14726dc0-7b14-4fb8-9cd4-9620f30971f3" />
