@@ -1,0 +1,15 @@
+PCB3_USB_HUB,,,,,,,,,,LCSC BOM Quotation,,,,,,,,,,,,,,,
+,,,,,,,,,,BOM Date Created：04/05/26 18:12:21,,,,BOM Export Date: 04/05/26 18:18:01,,,,"The matching result is a real-time query result, availability and prices may fluctuate.  
+Backorder items are estimated prices for your reference, please submit ""Create Quote"" to get the real price.
+All information is provided ""as is"" and is subject to change without notice.  Any use made of the information provided is without recourse to LCSC and at the user's risk.",,,,,,,
+,,,,,,,,,,"EST TOTAL :$2.69
+",,,,Website：https://www.lcsc.com/bom,,,,,,,,,,,
+Uploaded data,,,,,,,,,,LCSC Matching Results,,,,,,,,,,,,,,,
+LCSC#,Mfr.,Mrf#,Description,Package,Value,Customer Part Number,Quantity,Target Price(USD),Target Lead Time(Business Days),Mrf#,Mfr.,Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Package,Min,Mult,SPQ,Availability,Stock Status,Customer Notes,Description,Matched status,Product Link
+C5123587,Milliohm(毫欧),HoAR0603-1/10W-5.1KR-0.1%-TCR25,,R0603,,-,2,,,HoAR0603-1/10W-5.1KR-0.1%-TCR25,Milliohm,10,0.0495,0.50,C5123587,0603,10,10,5000,3790,In Stock,,100mW 5.1kΩ Ceramic Resistor ±25ppm/℃ ±0.1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C5123587.html
+C7501854,HC(虹成电子),HC-USB3.0-C26,,USB-3.0-A-SMD_HC-USB3.0-C26,,-,1,,,HC-USB3.0-C26,Hong Cheng,5,0.1100,0.55,C7501854,-,5,5,100,2540,In Stock,,USB-A (USB TYPE-A) Receptacle Connector 9 Position Recessed Mount,Exact Matches,
+C2909200,韩国韩荣,TYPE-C-31-G-08,,USB-C-SMD_TYPE-C-31-G-08,,-,1,,,TYPE-C-31-G-08,Korean Hroparts Elec,1,0.9429,0.94,C2909200,-,1,1,1000,624,In Stock,,USB-C (USB TYPE-C) Receptacle Connector 24 Position Recessed Mount,Exact Matches,
+C19171390,YONGYUTAI(永裕泰),YLED0603R,,LED0603-FD,,-,1,,,YLED0603R,YONGYUTAI,100,0.0030,0.30,C19171390,-,100,100,4000,193100,In Stock,,Red LED Indication - Discrete 1.8V~2.4V 0603,Exact Matches,
+C19273152,YONGYUTAI(永裕泰),YLED0603Y,,LED0603-RD-1,,-,1,,,YLED0603Y,YONGYUTAI,100,0.0030,0.30,C19273152,-,100,100,4000,72700,In Stock,,Yellow LED Indication - Discrete 1.8V~2.4V 0603,Exact Matches,
+C22962,UNI-ROYAL(厚声),0603WAF2200T5E,,R0603,,-,1,,,0603WAF2200T5E,UNI-ROYAL,100,0.0006,0.06,C22962,-,100,100,5000,2100,In Stock,,220Ω ±1% 100mW 0603 Thick Film Resistor,Exact Matches,
+C106235,YAGEO(国巨),RC0402FR-071KL,,R0402,,-,2,,,RC0402FR-071KL,YAGEO,100,0.0004,0.04,C106235,-,100,100,10000,2608200,In Stock,,1kΩ 62.5mW 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,Exact Matches,
