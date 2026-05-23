@@ -22,18 +22,21 @@ An USB hub with 4 type-A usb port, all started with my messy table with lot of t
 
 ## Schematic and PCB
 The circuit and PCB are designed in easyeda pro. The project contains all types of filesfor this pcb. The circuit schematic is also saved in PDF here.
+<img width="1522" height="809" alt="Screenshot 2026-05-23 221319" src="https://github.com/user-attachments/assets/f351f2f1-0d8e-43c4-ac05-731f5fa95d86" />
 
 The PCB has two layers with components soldered on both sides.
 
 ## Enclosure
-<img width="375" height="363" alt="Screenshot 2026-05-03 234159" src="https://github.com/user-attachments/assets/7030a146-f61b-4276-b0ae-8673a01e7e23" />
+<img width="375" height="363" alt="Screenshot 2026-05-03 234159" src="https://github.com/user-attachments/assets/7030a146-f61b-4276-b0ae-8673a01e7e23" /><br>
 STEP file for the 3d model is also in this repo!
-
+[Link to CAD](https://cad.onshape.com/documents/deb011d116156fdfcd269559/w/ab865027cb9a2e1a314931ab/e/de05a0be1bd879aa36663d0b?renderMode=0&uiState=6a02c41b910dfe467bc5f56b0)
 ## Add-on
 
 i reslised i have more usb type-a devices than usb type-c, so i introdouce type-a to type c connverter.. the highlight is both port is male ports.. 
 <img width="711" height="523" alt="Screenshot 2026-05-03 210844" src="https://github.com/user-attachments/assets/1f6c174c-8591-448b-88c8-ab285fb9ff63" />
-<img width="413" height="437" alt="Screenshot 2026-05-03 210822" src="https://github.com/user-attachments/assets/14726dc0-7b14-4fb8-9cd4-9620f30971f3" />
 
-## Onshape
-[Link to CAD](https://cad.onshape.com/documents/deb011d116156fdfcd269559/w/ab865027cb9a2e1a314931ab/e/de05a0be1bd879aa36663d0b?renderMode=0&uiState=6a02c41b910dfe467bc5f56b0)
+## Schematic
+<img width="953" height="553" alt="image" src="https://github.com/user-attachments/assets/ff14bea9-0747-4137-b13c-cdcea8c86fe3" />
+
+
+
