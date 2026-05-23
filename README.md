@@ -4,7 +4,8 @@
 This repo contains PCB and enclouser desgins..
 An USB hub with 4 type-A usb port, all started with my messy table with lot of tangled cables. i spend like about 5 hours designing An usb hub. We used EasyEDA for desgining the pcb plus routing the trace. Also included a Enclouser desgined through Onshape
 
-<img width="469" height="728" alt="image" src="https://github.com/user-attachments/assets/dec3cc91-d2c5-41e9-a802-57435d931edd" />
+## Why did I made this project?
+I created this project my table is so scrabled and tangled with cables. To organize my table.. i wanted to make a simple usb hub, I wanted to design something original that help orginise limited USB ports while also improving my skills in electronics cad etc.
 
 ## What's inside?
 
@@ -38,5 +39,5 @@ i reslised i have more usb type-a devices than usb type-c, so i introdouce type-
 ## Schematic
 <img width="953" height="553" alt="image" src="https://github.com/user-attachments/assets/ff14bea9-0747-4137-b13c-cdcea8c86fe3" />
 
-
-
+## Zine Image
+<img width="469" height="728" alt="image" src="https://github.com/user-attachments/assets/dec3cc91-d2c5-41e9-a802-57435d931edd" />
