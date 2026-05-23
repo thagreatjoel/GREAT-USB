@@ -4,6 +4,8 @@
 This repo contains PCB and enclouser desgins..
 An USB hub with 4 type-A usb port, all started with my messy table with lot of tangled cables. i spend like about 5 hours designing An usb hub. We used EasyEDA for desgining the pcb plus routing the trace. Also included a Enclouser desgined through Onshape
 
+<img width="469" height="728" alt="image" src="https://github.com/user-attachments/assets/dec3cc91-d2c5-41e9-a802-57435d931edd" />
+
 ## What's inside?
 
   Nothing fancy its Just a cheap, generic USB 2.0 controller with 3.0Usb port, that does the job. The good stuff is in the details:
