@@ -25,6 +25,9 @@ I created this project my table is so scrabled and tangled with cables. To organ
 The circuit and PCB are designed in easyeda pro. The project contains all types of filesfor this pcb. The circuit schematic is also saved in PDF here.
 <img width="1136" height="617" alt="image" src="https://github.com/user-attachments/assets/aaa7ebba-8170-4308-b8a4-5cb7109e9d74" />
 
+<img width="375" height="364" alt="image" src="https://github.com/user-attachments/assets/fb097963-830b-433f-bf74-d895389af8c7" />
+
+
 
 The PCB has two layers with components soldered on both sides.
 
@@ -37,8 +40,9 @@ STEP file for the 3d model is also in this repo!
 i reslised i have more usb type-a devices than usb type-c, so i introdouce type-a to type c connverter.. the highlight is both port is male ports.. 
 <img width="711" height="523" alt="Screenshot 2026-05-03 210844" src="https://github.com/user-attachments/assets/1f6c174c-8591-448b-88c8-ab285fb9ff63" />
 
-## Schematic
-<img width="500" height="338" alt="image" src="https://github.com/user-attachments/assets/ba71432c-51c7-41f7-aa18-eb579a7ca8aa" />
+## Schematic and Pcb
+<img width="700"  alt="image" src="https://github.com/user-attachments/assets/ba71432c-51c7-41f7-aa18-eb579a7ca8aa" />
+<img width="284"  alt="image" src="https://github.com/user-attachments/assets/a8bf27ca-a606-49cd-9a04-5e2c3fdd3514" />
 
 
 ## Zine Image
