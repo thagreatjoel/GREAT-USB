@@ -23,7 +23,8 @@ I created this project my table is so scrabled and tangled with cables. To organ
 
 ## Schematic and PCB
 The circuit and PCB are designed in easyeda pro. The project contains all types of filesfor this pcb. The circuit schematic is also saved in PDF here.
-<img width="1522" height="809" alt="Screenshot 2026-05-23 221319" src="https://github.com/user-attachments/assets/f351f2f1-0d8e-43c4-ac05-731f5fa95d86" />
+<img width="1136" height="617" alt="image" src="https://github.com/user-attachments/assets/aaa7ebba-8170-4308-b8a4-5cb7109e9d74" />
+
 
 The PCB has two layers with components soldered on both sides.
 
@@ -37,7 +38,8 @@ i reslised i have more usb type-a devices than usb type-c, so i introdouce type-
 <img width="711" height="523" alt="Screenshot 2026-05-03 210844" src="https://github.com/user-attachments/assets/1f6c174c-8591-448b-88c8-ab285fb9ff63" />
 
 ## Schematic
-<img width="953" height="553" alt="image" src="https://github.com/user-attachments/assets/ff14bea9-0747-4137-b13c-cdcea8c86fe3" />
+<img width="500" height="338" alt="image" src="https://github.com/user-attachments/assets/ba71432c-51c7-41f7-aa18-eb579a7ca8aa" />
+
 
 ## Zine Image
 <img width="469" height="728" alt="image" src="https://github.com/user-attachments/assets/dec3cc91-d2c5-41e9-a802-57435d931edd" />
