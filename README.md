@@ -43,8 +43,10 @@ i reslised i have more usb type-a devices than usb type-c, so i introdouce type-
 <img width="711" height="523" alt="Screenshot 2026-05-03 210844" src="https://github.com/user-attachments/assets/1f6c174c-8591-448b-88c8-ab285fb9ff63" />
 
 ## Schematic and Pcb
-<img width="700"  alt="image" src="https://github.com/user-attachments/assets/ba71432c-51c7-41f7-aa18-eb579a7ca8aa" />
+<img width="700"  alt="image" src="https://github.com/user-attachments/assets/ba71432c-51c7-41f7-aa18-eb579a7ca8aa" /><br>
 <img width="284"  alt="image" src="https://github.com/user-attachments/assets/a8bf27ca-a606-49cd-9a04-5e2c3fdd3514" />
+<img width="284"  alt="image" src="https://github.com/user-attachments/assets/e120cc8a-25ce-41fa-912c-e86f316fd304" />
+
 
 
 ## Zine Image
