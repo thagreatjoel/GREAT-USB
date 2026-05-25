@@ -25,7 +25,9 @@ I created this project my table is so scrabled and tangled with cables. To organ
 The circuit and PCB are designed in easyeda pro. The project contains all types of filesfor this pcb. The circuit schematic is also saved in PDF here.
 <img width="1136" height="617" alt="image" src="https://github.com/user-attachments/assets/aaa7ebba-8170-4308-b8a4-5cb7109e9d74" />
 
-<img width="375" height="364" alt="image" src="https://github.com/user-attachments/assets/fb097963-830b-433f-bf74-d895389af8c7" />
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/fb097963-830b-433f-bf74-d895389af8c7" />
+<img width="375"" alt="image" src="https://github.com/user-attachments/assets/075572a0-9c59-4d9e-ac4d-20d0f4fc4b94" />
+
 
 
 
