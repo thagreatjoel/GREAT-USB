@@ -1,17 +1,18 @@
-GREAT HUB,,,,,,,,,,LCSC BOM Quotation,,,,,,,,,,,,,,,
-,,,,,,,,,,BOM Date Created：30/05/26 12:33:25,,,,BOM Export Date: 30/05/26 12:33:36,,,,"The matching result is a real-time query result, availability and prices may fluctuate.  
+USBHUB,,,,,,,,,,LCSC BOM Quotation,,,,,,,,,,,,,,,
+,,,,,,,,,,BOM Date Created：30/05/26 17:33:29,,,,BOM Export Date: 30/05/26 17:33:40,,,,"The matching result is a real-time query result, availability and prices may fluctuate.  
 Backorder items are estimated prices for your reference, please submit ""Create Quote"" to get the real price.
 All information is provided ""as is"" and is subject to change without notice.  Any use made of the information provided is without recourse to LCSC and at the user's risk.",,,,,,,
-,,,,,,,,,,"EST TOTAL :$6.12
+,,,,,,,,,,"EST TOTAL :$4.24
 ",,,,Website：https://www.lcsc.com/bom,,,,,,,,,,,
 Uploaded data,,,,,,,,,,LCSC Matching Results,,,,,,,,,,,,,,,
 LCSC#,Mfr.,Mrf#,Description,Package,Value,Customer Part Number,Quantity,Target Price(USD),Target Lead Time(Business Days),Mrf#,Mfr.,Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Package,Min,Mult,SPQ,Availability,Stock Status,Customer Notes,Description,Matched status,Product Link
-C2765186,SHOU HAN(首韩),TYPE-C 16PIN 2MD(073),,USB-C-SMD_TYPE-C-16PIN-2MD-073,,-,1,,,TYPE-C 16PIN 2MD(073),SHOU HAN,20,0.0741,1.48,C2765186,SMD,20,20,1000,948080,In Stock,,"USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",Exact Matches,https://www.lcsc.com/product-detail/C2765186.html
-C2684433,CoreChips(和芯润德),SL2.1s,,SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL,,-,1,,,SL2.1s,CoreChips,5,0.2849,1.42,C2684433,SSOP-16,5,5,7500,330,In Stock,,Hub USB 2.0 SSOP-16 Interface Controllers RoHS,Exact Matches,https://www.lcsc.com/product-detail/C2684433.html
+C28323,SAMSUNG(三星),CL21B105KBFNNNE,,C0805,,-,4,,,CL21B105KBFNNNE,Samsung Electro-Mechanics,20,0.0076,0.15,C28323,-,20,20,2000,0,Backordered,,1uF ±10% 50V Ceramic Capacitor X7R 0805,Exact Matches,
+C14663,YAGEO(国巨),CC0603KRX7R9BB104,,C0603,,-,3,,,CC0603KRX7R9BB104,YAGEO,100,0.0014,0.14,C14663,-,100,100,4000,0,Backordered,,100nF ±10% 50V Ceramic Capacitor X7R 0603,Exact Matches,
 C5123587,Milliohm(毫欧),HoAR0603-1/10W-5.1KR-0.1%-TCR25,,R0603,,-,2,,,HoAR0603-1/10W-5.1KR-0.1%-TCR25,Milliohm,10,0.0495,0.50,C5123587,0603,10,10,5000,3050,In Stock,,100mW 5.1kΩ Ceramic Resistor ±25ppm/℃ ±0.1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C5123587.html
-C28323,SAMSUNG(三星),CL21B105KBFNNNE,,C0805,,-,4,,,CL21B105KBFNNNE,Samsung Electro-Mechanics,20,0.0183,0.37,C28323,0805,20,20,2000,0,Backordered,,1uF ±10% 50V Ceramic Capacitor X7R 0805,Exact Matches,https://www.lcsc.com/product-detail/C28323.html
-C14663,YAGEO(国巨),CC0603KRX7R9BB104,,C0603,,-,3,,,CC0603KRX7R9BB104,YAGEO,100,0.0038,0.38,C14663,0603,100,100,4000,0,Backordered,,100nF ±10% 50V Ceramic Capacitor X7R 0603,Exact Matches,https://www.lcsc.com/product-detail/C14663.html
-C19273152,YONGYUTAI(永裕泰),YLED0603Y,,LED0603-RD-1,,-,2,,,YLED0603Y,YONGYUTAI,100,0.0065,0.65,C19273152,0603,100,100,4000,70800,In Stock,,Yellow LED Indication - Discrete 1.8V~2.4V 0603,Exact Matches,https://www.lcsc.com/product-detail/C19273152.html
-C22962,UNI-ROYAL(厚声),0603WAF2200T5E,,R0603,,-,1,,,0603WAF2200T5E,UNI-ROYAL,100,0.0014,0.14,C22962,0603,100,100,5000,1035100,In Stock,,220Ω ±1% 100mW 0603 Thick Film Resistor,Exact Matches,https://www.lcsc.com/product-detail/C22962.html
-C965804,XINGLIGHT(成兴光),XL-1608UGC-04,,LED0603-RD_GREEN,,-,1,,,XL-1608UGC-04,XINGLIGHT,100,0.0050,0.50,C965804,0603,100,100,4000,4205400,In Stock,,Emerald Green 525nm LED Indication - Discrete 3.3V 0603,Exact Matches,https://www.lcsc.com/product-detail/C965804.html
-C456021,SHOU HAN(首韩),AF SS-JB17.6,,USB-A-TH_AF-SS-JB17.6,,-,2,,,AF SS-JB17.6,SHOU HAN,5,0.1368,0.68,C456021,"Through Hole,Right Angle",5,5,100,26270,In Stock,,USB-A (USB TYPE-A) Receptacle Connector 4 Positionx2 Right Angle,Exact Matches,https://www.lcsc.com/product-detail/C456021.html
+C2684433,CoreChips(和芯润德),SL2.1s,,SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL,,-,1,,,SL2.1s,CoreChips,5,0.1699,0.85,C2684433,-,5,5,7500,350,In Stock,,Hub USB 2.0 SSOP-16 Interface Controllers RoHS,Exact Matches,
+C2765186,SHOU HAN(首韩),TYPE-C 16PIN 2MD(073),,USB-C-SMD_TYPE-C-16PIN-2MD-073,,-,1,,,TYPE-C 16PIN 2MD(073),SHOU HAN,20,0.0501,1.00,C2765186,-,20,20,1000,943380,In Stock,,"USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",Exact Matches,
+C19273152,YONGYUTAI(永裕泰),YLED0603Y,,LED0603-RD-1,,-,2,,,YLED0603Y,YONGYUTAI,100,0.0030,0.30,C19273152,-,100,100,4000,70800,In Stock,,Yellow LED Indication - Discrete 1.8V~2.4V 0603,Exact Matches,
+C965804,XINGLIGHT(成兴光),XL-1608UGC-04,,LED0603-RD_GREEN,,-,1,,,XL-1608UGC-04,XINGLIGHT,100,0.0028,0.28,C965804,-,100,100,4000,4179100,In Stock,,Emerald Green 525nm LED Indication - Discrete 3.3V 0603,Exact Matches,
+C22962,UNI-ROYAL(厚声),0603WAF2200T5E,,R0603,,-,1,,,0603WAF2200T5E,UNI-ROYAL,100,0.0006,0.06,C22962,-,100,100,5000,1034100,In Stock,,220Ω ±1% 100mW 0603 Thick Film Resistor,Exact Matches,
+C456021,SHOU HAN(首韩),AF SS-JB17.6,,USB-A-TH_AF-SS-JB17.6,,-,2,,,AF SS-JB17.6,SHOU HAN,5,0.1181,0.59,C456021,-,5,5,100,26245,In Stock,,USB-A (USB TYPE-A) Receptacle Connector 4 Positionx2 Right Angle,Exact Matches,
+C2827654,TECH PUBLIC(台舟),USBLC6-2SC6,,SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL,,-,4,,,USBLC6-2SC6,TECH PUBLIC,10,0.0369,0.37,C2827654,-,10,10,3000,111240,In Stock,,12VC Clamp 6A Ipp ESD DIODE SOT-23-6,Exact Matches,
