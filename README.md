@@ -11,7 +11,8 @@ I created this project my table is so scrabled and tangled with cables. To organ
 
   Nothing fancy its Just a cheap, generic USB 2.0 controller with 3.0Usb port, that does the job. The good stuff is in the details:
   
- <img width="499" height="416" alt="Screenshot 2026-05-03 205417" src="https://github.com/user-attachments/assets/16939d99-8cdb-4bcc-8270-e90acd006363" />
+
+ <img width="499"  alt="image" src="https://github.com/user-attachments/assets/ea0b8f8e-c9d0-4eb2-a083-6ba42f5a35cf" />
 
 - Usb-c Input works with any cables.
 - 4 UsbA ports routed throught each other
@@ -50,4 +51,4 @@ i reslised i have more usb type-a devices than usb type-c, so i introdouce type-
 
 
 ## Zine Image
-<img width="469" height="728" alt="image" src="https://github.com/user-attachments/assets/dec3cc91-d2c5-41e9-a802-57435d931edd" />
+<img width="469" height="728" alt="image" src="https://github.com/user-attachments/assets/37a4f408-2d37-44f5-97f8-41d58d4ade0c" />
